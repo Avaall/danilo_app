@@ -1,0 +1,22 @@
+{
+  "audifonos": {
+    "name": "Audi Fonos",
+    "imagen": "https://electronicagabriel.com/wp-content/uploads/2020/02/audifonos-HP2B.jpg",
+    "descripcion": "kajsbckwuqqliwhoqw"
+  },
+  "cascos": {
+    "name": "cascos",
+    "imagen": "https://http2.mlstatic.com/audifonos-beats-pro-over-ear-headphone-todos-los-colores-D_NQ_NP_16856-MLM20128406008_072014-F.jpg",
+    "descripcion": "kajsbckwuqqliwhoqw"
+  },
+  "pc": {
+    "name": "pc",
+    "imagen": "https://th.bing.com/th/id/OIP.o_23pifDkX7hTNH6hnW4HAHaE3?pid=ImgDet&rs=1",
+    "descripcion": "kajsbckwuqqliwhoqw"
+  },
+  "ram": {
+    "name": "RAM",
+    "imagen": "https://th.bing.com/th/id/OIP.0LyVQ193YWkJHELdyUj1AwHaE5?pid=ImgDet&rs=1",
+    "descripcion": "kajsbckwuqqliwhoqw"
+  }
+}
